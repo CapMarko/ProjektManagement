@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-29T16:56:41.293Z" agent="5.0 (Windows)" etag="D5SyvwpSptcMgY8dWeJS" version="15.8.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-29T17:11:50.461Z" agent="5.0 (Windows)" etag="TeSGPvha4oT8Ug1qHkFR" version="15.8.7" type="github">
   <diagram id="85JBvjBLrEd7w9Uc_hwY" name="Page-1">
-    <mxGraphModel dx="1185" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2500" pageHeight="2500" math="0" shadow="0">
+    <mxGraphModel dx="1673" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2500" pageHeight="2500" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,7 +11,7 @@
           <mxGeometry x="860" y="640" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="cYCd2_rZZCVYgm8Ew9wH-3" value="Produkte bestellt und versendet werden (gurkerl)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="890" width="140" height="90" as="geometry" />
+          <mxGeometry x="1150" y="880" width="140" height="90" as="geometry" />
         </mxCell>
         <mxCell id="cYCd2_rZZCVYgm8Ew9wH-5" value="Supply Chain, Logistik, Einkauf &lt;br&gt;Struktur vorhanden" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1470" y="640" width="120" height="80" as="geometry" />
@@ -26,7 +26,7 @@
           <mxGeometry x="1110" y="700" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="cYCd2_rZZCVYgm8Ew9wH-9" value="&lt;div&gt;Entwicklung&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1100" y="210" width="120" height="80" as="geometry" />
+          <mxGeometry x="850" y="310" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="cYCd2_rZZCVYgm8Ew9wH-10" value="Urbantransportation" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1320" y="1040" width="140" height="90" as="geometry" />
@@ -39,6 +39,15 @@
         </mxCell>
         <mxCell id="cYCd2_rZZCVYgm8Ew9wH-13" value="Eigene Flotte?" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1570" y="800" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cYCd2_rZZCVYgm8Ew9wH-14" value="&lt;div&gt;Ziel des Online Shops: &lt;br&gt;&lt;/div&gt;&lt;div&gt;1.) lokaler Nahversorger für städtische Bevölkerung&lt;br&gt;&lt;/div&gt;&lt;div&gt;2.) Bestellung und Versand&lt;/div&gt;&lt;div&gt;3.) &lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1580" y="60" width="380" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="cYCd2_rZZCVYgm8Ew9wH-15" value="&lt;div&gt;Rahmenbedingunen: &lt;br&gt;&lt;/div&gt;&lt;div&gt;1.) sind schon mobiler Nahversorger in Wien-Umgebung&lt;/div&gt;&lt;div&gt;1.1.) Wir bieten Platform - Preisgestaltung obliegt dem Produzenten&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2.) Versand durch externe Dienstleister&lt;br&gt;&lt;/div&gt;&lt;div&gt;3.) Supply Chain und Logistik Infratruktur vorhanden&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2010" y="60" width="380" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="cYCd2_rZZCVYgm8Ew9wH-16" value="&lt;div&gt;Nicht-Ziel des Online Shops: &lt;br&gt;&lt;/div&gt;&lt;div&gt;1.) keine Selbstabholung (Click &amp;amp; Collect)&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="60" width="380" height="270" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
