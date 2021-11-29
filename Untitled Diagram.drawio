@@ -1,1 +1,46 @@
-<mxfile host="app.diagrams.net" modified="2021-11-29T16:39:59.470Z" agent="5.0 (Windows)" version="15.8.7" etag="8jETz6Uz82FaRSA_UZ66" type="github"><diagram id="85JBvjBLrEd7w9Uc_hwY">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-11-29T16:56:41.293Z" agent="5.0 (Windows)" etag="D5SyvwpSptcMgY8dWeJS" version="15.8.7" type="github">
+  <diagram id="85JBvjBLrEd7w9Uc_hwY" name="Page-1">
+    <mxGraphModel dx="1185" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2500" pageHeight="2500" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="cYCd2_rZZCVYgm8Ew9wH-1" value="BringsDa" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cYCd2_rZZCVYgm8Ew9wH-2" value="Lokaler Nahversorge (mobil)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="640" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cYCd2_rZZCVYgm8Ew9wH-3" value="Produkte bestellt und versendet werden (gurkerl)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="890" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="cYCd2_rZZCVYgm8Ew9wH-5" value="Supply Chain, Logistik, Einkauf &lt;br&gt;Struktur vorhanden" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1470" y="640" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cYCd2_rZZCVYgm8Ew9wH-6" value="Operation &lt;br&gt;anpassung (nicht neuerstellung des Prozesses)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="520" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cYCd2_rZZCVYgm8Ew9wH-7" value="Versand - 3rd Party" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1430" y="800" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cYCd2_rZZCVYgm8Ew9wH-8" value="Projektantrag&lt;br&gt;genehmigt" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="700" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cYCd2_rZZCVYgm8Ew9wH-9" value="&lt;div&gt;Entwicklung&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="210" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cYCd2_rZZCVYgm8Ew9wH-10" value="Urbantransportation" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="1040" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="cYCd2_rZZCVYgm8Ew9wH-11" value="&lt;div&gt;Geschäftsgebiet&lt;/div&gt;&lt;div&gt;Wien-Umgebung&lt;/div&gt;&lt;div&gt;&quot;Speckgürtel&quot;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="890" y="780" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="cYCd2_rZZCVYgm8Ew9wH-12" value="1...." style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="840" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="cYCd2_rZZCVYgm8Ew9wH-13" value="Eigene Flotte?" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1570" y="800" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
