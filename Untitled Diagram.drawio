@@ -1,44 +1,44 @@
-<mxfile host="app.diagrams.net" modified="2021-11-29T17:30:50.820Z" agent="5.0 (Windows)" etag="zLcynaoL4EZWQ8peACB9" version="15.8.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-29T17:32:12.681Z" agent="5.0 (Windows)" etag="cKa2KP7m0UEHZ1LmYxqp" version="15.8.7" type="github">
   <diagram id="85JBvjBLrEd7w9Uc_hwY" name="Page-1">
-    <mxGraphModel dx="1673" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2500" pageHeight="2500" math="0" shadow="0">
+    <mxGraphModel dx="1955" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2500" pageHeight="2500" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="cYCd2_rZZCVYgm8Ew9wH-1" value="BringsDa" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1110" y="650" width="120" height="60" as="geometry" />
+          <mxGeometry x="490" y="910" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cYCd2_rZZCVYgm8Ew9wH-2" value="Lokaler Nahversorge (mobil)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="860" y="640" width="120" height="80" as="geometry" />
+          <mxGeometry x="240" y="900" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="cYCd2_rZZCVYgm8Ew9wH-3" value="Produkte bestellt und versendet werden (gurkerl)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1150" y="880" width="140" height="90" as="geometry" />
+          <mxGeometry x="530" y="1140" width="140" height="90" as="geometry" />
         </mxCell>
         <mxCell id="cYCd2_rZZCVYgm8Ew9wH-5" value="Supply Chain, Logistik, Einkauf &lt;br&gt;Struktur vorhanden" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1470" y="640" width="120" height="80" as="geometry" />
+          <mxGeometry x="850" y="900" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="cYCd2_rZZCVYgm8Ew9wH-6" value="Operation &lt;br&gt;anpassung (nicht neuerstellung des Prozesses)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1410" y="520" width="120" height="80" as="geometry" />
+          <mxGeometry x="790" y="780" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="cYCd2_rZZCVYgm8Ew9wH-7" value="Versand - 3rd Party" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1430" y="800" width="120" height="80" as="geometry" />
+          <mxGeometry x="810" y="1060" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="cYCd2_rZZCVYgm8Ew9wH-8" value="Projektantrag&lt;br&gt;genehmigt" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1110" y="700" width="120" height="80" as="geometry" />
+          <mxGeometry x="490" y="960" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="cYCd2_rZZCVYgm8Ew9wH-9" value="&lt;div&gt;Entwicklung&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="540" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="cYCd2_rZZCVYgm8Ew9wH-10" value="Urbantransportation" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1320" y="1040" width="140" height="90" as="geometry" />
+          <mxGeometry x="700" y="1300" width="140" height="90" as="geometry" />
         </mxCell>
         <mxCell id="cYCd2_rZZCVYgm8Ew9wH-11" value="&lt;div&gt;Geschäftsgebiet&lt;/div&gt;&lt;div&gt;Wien-Umgebung&lt;/div&gt;&lt;div&gt;&quot;Speckgürtel&quot;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="890" y="780" width="140" height="90" as="geometry" />
+          <mxGeometry x="270" y="1040" width="140" height="90" as="geometry" />
         </mxCell>
         <mxCell id="cYCd2_rZZCVYgm8Ew9wH-12" value="1...." style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="710" y="840" width="140" height="90" as="geometry" />
+          <mxGeometry x="90" y="1100" width="140" height="90" as="geometry" />
         </mxCell>
         <mxCell id="cYCd2_rZZCVYgm8Ew9wH-13" value="Eigene Flotte?" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1570" y="800" width="120" height="80" as="geometry" />
+          <mxGeometry x="950" y="1060" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="cYCd2_rZZCVYgm8Ew9wH-14" value="&lt;div&gt;Ziel des Online Shops: &lt;br&gt;&lt;/div&gt;&lt;div&gt;1.) lokaler Nahversorger für städtische Bevölkerung&lt;br&gt;&lt;/div&gt;&lt;div&gt;2.) Bestellung und Versand&lt;/div&gt;&lt;div&gt;3.) B2C &lt;br&gt;&lt;/div&gt;&lt;div&gt;4.) Skalierbarkeit &lt;br&gt;(IT-Infrastruktur, Sicherheit, Datenschutz)&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1590" y="60" width="380" height="270" as="geometry" />
@@ -47,7 +47,7 @@
           <mxGeometry x="2010" y="60" width="380" height="270" as="geometry" />
         </mxCell>
         <mxCell id="cYCd2_rZZCVYgm8Ew9wH-16" value="&lt;div&gt;Nicht-Ziel des Online Shops: &lt;br&gt;&lt;/div&gt;&lt;div&gt;1.) keine Selbstabholung (Click &amp;amp; Collect)&lt;/div&gt;&lt;div&gt;2.) kein B2B&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1170" y="60" width="380" height="270" as="geometry" />
+          <mxGeometry x="1590" y="360" width="380" height="270" as="geometry" />
         </mxCell>
         <mxCell id="cYCd2_rZZCVYgm8Ew9wH-17" value="1.) IT - Infrastruktur für mind. 2.000 Nutzer im 1.Jahr" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="750" y="60" width="380" height="270" as="geometry" />
