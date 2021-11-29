@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-29T17:32:12.681Z" agent="5.0 (Windows)" etag="cKa2KP7m0UEHZ1LmYxqp" version="15.8.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-29T17:37:25.097Z" agent="5.0 (Windows)" etag="32eSGbKQ40dCmJNsNBSI" version="15.8.7" type="github">
   <diagram id="85JBvjBLrEd7w9Uc_hwY" name="Page-1">
-    <mxGraphModel dx="1955" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2500" pageHeight="2500" math="0" shadow="0">
+    <mxGraphModel dx="1385" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2500" pageHeight="2500" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -43,7 +43,7 @@
         <mxCell id="cYCd2_rZZCVYgm8Ew9wH-14" value="&lt;div&gt;Ziel des Online Shops: &lt;br&gt;&lt;/div&gt;&lt;div&gt;1.) lokaler Nahversorger für städtische Bevölkerung&lt;br&gt;&lt;/div&gt;&lt;div&gt;2.) Bestellung und Versand&lt;/div&gt;&lt;div&gt;3.) B2C &lt;br&gt;&lt;/div&gt;&lt;div&gt;4.) Skalierbarkeit &lt;br&gt;(IT-Infrastruktur, Sicherheit, Datenschutz)&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1590" y="60" width="380" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="cYCd2_rZZCVYgm8Ew9wH-15" value="&lt;div&gt;Rahmenbedingungen: &lt;br&gt;&lt;/div&gt;&lt;div&gt;1.) sind schon mobiler Nahversorger in Wien-Umgebung&lt;/div&gt;&lt;div&gt;1.1.) Wir bieten Platform - Preisgestaltung obliegt dem Produzenten&lt;/div&gt;&lt;div&gt;1.2.) Umsatz durch Provision (Listing für Produkte + Provision anhand verkaufter Produkte)&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2.) Versand durch externe Dienstleister&lt;br&gt;&lt;/div&gt;&lt;div&gt;3.) Supply Chain und Logistik Infrastruktur vorhanden&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cYCd2_rZZCVYgm8Ew9wH-15" value="&lt;div&gt;Rahmenbedingungen: &lt;br&gt;&lt;/div&gt;&lt;div&gt;1.) sind schon mobiler Nahversorger in Wien-Umgebung&lt;/div&gt;&lt;div&gt;1.1.) Wir bieten Platform - Preisgestaltung obliegt dem Produzenten&lt;/div&gt;&lt;div&gt;(Vermittlungsplatform &lt;br&gt;&lt;/div&gt;&lt;div&gt;1.2.) Umsatz durch Provision (Listing für Produkte + Provision anhand verkaufter Produkte)&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2.) Versand durch externe Dienstleister&lt;br&gt;&lt;/div&gt;&lt;div&gt;3.) Supply Chain und Logistik Infrastruktur vorhanden&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2010" y="60" width="380" height="270" as="geometry" />
         </mxCell>
         <mxCell id="cYCd2_rZZCVYgm8Ew9wH-16" value="&lt;div&gt;Nicht-Ziel des Online Shops: &lt;br&gt;&lt;/div&gt;&lt;div&gt;1.) keine Selbstabholung (Click &amp;amp; Collect)&lt;/div&gt;&lt;div&gt;2.) kein B2B&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
