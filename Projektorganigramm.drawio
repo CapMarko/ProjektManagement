@@ -1,1 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2021-12-06T16:36:35.215Z" agent="5.0 (Windows)" version="15.9.1" etag="C-K9_ELBmuEpVjsekj7Z" type="github"><diagram id="_76x9E-9HnuTFrB9pPS9">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-12-06T16:53:06.865Z" agent="5.0 (Windows)" etag="Btz8Y3HoLOBW5O03cQFo" version="15.9.1" type="github">
+  <diagram id="_76x9E-9HnuTFrB9pPS9" name="Page-1">
+    <mxGraphModel dx="813" dy="411" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="500" pageHeight="400" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="NJFJMfUyY4o7fM_dKvsl-1" value="Projektteam&lt;br&gt;BringsDa" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="118" y="125" width="265" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="NJFJMfUyY4o7fM_dKvsl-2" value="Projektauftraggeber" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="50" width="134.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NJFJMfUyY4o7fM_dKvsl-3" value="Projektsponsor" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="100" width="134.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NJFJMfUyY4o7fM_dKvsl-4" value="Externe MA von Firma XY" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="180" width="134.5" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
